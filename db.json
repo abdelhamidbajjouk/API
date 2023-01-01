@@ -13,6 +13,20 @@
           "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
           "price": "$49.99",
           "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/VeganBananaPancakeBatter.png?v=1640644449"
+        },
+      {
+          "id": "ghost-whey-vegan-ccm",
+          "name": "GHOST® Vegan Protein",
+          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+          "price": "$49.99",
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan_CCM.png?v=1632423137"
+        },
+      {
+          "id": "ghost-whey-vegan-pancake",
+          "name": "GHOST® Vegan Protein",
+          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+          "price": "$49.99",
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/VeganPancake.png?v=1632423137"
         }
   ],
 }
