@@ -1,4 +1,4 @@
-[
+{
   "products": [
        {
           "id": "ghost-whey-x-chips-ahoy",
@@ -28,5 +28,5 @@
           "price": "$49.99",
           "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/PumpSourWatermelon.png?v=1626099360"
         }
-  ],
-];
+  ]
+}
