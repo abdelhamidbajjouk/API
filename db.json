@@ -1,22 +1,22 @@
 {
   "customers": [
-  {
-    id: "728ed52f",
-    amount: 100,
-    status: "pending",
-    email: "m@example.com",
-  },
-  {
-    id: "987abdcf",
-    amount: 50,
-    status: "completed",
-    email: "johndoe@example.com",
-  },
-  {
-    id: "54321xyz",
-    amount: 75,
-    status: "pending",
-    email: "janedoe@example.com",
-  },
-],
+    {
+      "id": "728ed52f",
+      "amount": 100,
+      "status": "pending",
+      "email": "m@example.com"
+    },
+    {
+      "id": "987abdcf",
+      "amount": 50,
+      "status": "completed",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": "54321xyz",
+      "amount": 75,
+      "status": "pending",
+      "email": "janedoe@example.com"
+    }
+  ]
 }
