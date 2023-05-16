@@ -1,60 +1,22 @@
 {
-  "products": [
-    {
-      "id": "1",
-      "name": "Ghost Whey X Chips Ahoy",
-      "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
-      "price": "$39.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/PumpSourWatermelon.png?v=1626099360"
-    },
-    {
-      "id": "2",
-      "name": "GHOST® Vegan Protein",
-      "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-      "price": "$49.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/PumpSourWatermelon.png?v=1626099360"
-    },
-    {
-      "id": "3",
-      "name": "GHOST® Vegan Protein X Pump Natty",
-      "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-      "price": "$69.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/PumpSourWatermelon.png?v=1626099360"
-    },
-    {
-      "id": "4",
-      "name": "GHOST® Vegan Protein X Pump Sour",
-      "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-      "price": "$99.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/PumpSourWatermelon.png?v=1626099360"
-    },
-    {
-      "id": "5",
-      "name": "GHOST® Vegan Protein X Pump Sour",
-      "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-      "price": "$99.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/PumpSourWatermelon.png?v=1626099360"
-    },
-    {
-      "id": "6",
-      "name": "GHOST® Vegan Protein X Pump Sour",
-      "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-      "price": "$99.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/PumpSourWatermelon.png?v=1626099360"
-    },
-    {
-      "id": "7",
-      "name": "GHOST® Vegan Protein X Pump Sour",
-      "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-      "price": "$99.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/PumpSourWatermelon.png?v=1626099360"
-    },
-    {
-      "id": "8",
-      "name": "GHOST® Vegan Protein X Pump Sour",
-      "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-      "price": "$99.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/PumpSourWatermelon.png?v=1626099360"
-    }
-  ]
+  "customers": [
+  {
+    name: "John Doe",
+    phoneNumber: "1234567890",
+    paymentStatus: "Paid",
+    emailAddress: "johndoe@example.com"
+  },
+  {
+    name: "Jane Smith",
+    phoneNumber: "9876543210",
+    paymentStatus: "Unpaid",
+    emailAddress: "janesmith@example.com"
+  },
+  {
+    name: "Alice Johnson",
+    phoneNumber: "5555555555",
+    paymentStatus: "Paid",
+    emailAddress: "alicejohnson@example.com"
+  }
+];
 }
